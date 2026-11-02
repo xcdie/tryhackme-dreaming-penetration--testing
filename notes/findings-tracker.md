@@ -23,12 +23,14 @@
 
 ## Evidence references
 
+
 | Evidence | Relevant screenshots |
 | --- | --- |
 | Initial and ongoing Gobuster enumeration | `09-directory-enumeration-start.png`, `07-directory-enumeration-progress.png`, `04-directory-enumeration.png` |
 | Completed root enumeration | `01-directory-enumeration-complete.png`, `02-discovered-directories.png` |
 | Data/settings response checks | `05-http-response-check.png` |
 | Additional enumeration output | `03-enumeration-detail.png`, `06-directory-enumeration-run.png`, `08-enumeration-findings.png` |
+
 
 ## Constraints and next steps
 
